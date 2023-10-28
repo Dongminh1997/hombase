@@ -21,6 +21,7 @@ Input variables:
 - pH: describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic)
 - sulphates: a wine additive which can contribute to sulfur dioxide gas (S02) levels
 - alcohol: the percent alcohol content of the wine
+  
 Output variable:
 - quality (score between 0 and 10)
 
