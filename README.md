@@ -8,6 +8,7 @@ Dataset summary:
 Using chemical analysis to determine the origin of wines
 Database Name: Wine
 Database URL: https://archive.ics.uci.edu/dataset/109/wine
+
 Input variables:
 - fixed acidity: most acids involved with wine or fixed or nonvolatile
 - volatile acidity: the amount of acetic acid in wine
