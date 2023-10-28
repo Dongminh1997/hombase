@@ -1,0 +1,7 @@
+apache-airflow==2.7.2
+clickhouse_connect==0.6.18
+numpy==1.25.2
+pandas==2.0.3
+seaborn==0.13.0
+SQLAlchemy==1.4.49
+~atplotlib==3.8.0
